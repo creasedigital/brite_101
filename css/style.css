@@ -25,7 +25,7 @@
 }
 
 .text {
-	color: white !important;
+	color: white;
 	text-align: center;
 	position: absolute;
 	top: 25%;
@@ -41,4 +41,8 @@
 .text p {
 	font-size: 36px;
 	font-family: 'Noto Sans Lao', sans-serif;
+}
+
+.danger{
+	color: red;
 }
